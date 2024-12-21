@@ -1,0 +1,9 @@
+You: yo
+AI: I'm sorry, I did not understand that, could you rephrase your query?
+You: you dont remember you got a memory bank
+AI: I am not sure what you mean. Can you please rephrase your question?
+You: you got a memory file you can access
+AI: I have a memory bank that I use to store and retrieve information. This allows me to remember facts and information from previous conversations and to use them to provide relevant and helpful responses.
+
+Can I help you with anything else today?
+You: save
